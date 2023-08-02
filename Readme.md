@@ -8,7 +8,7 @@ Welcome to the ColumnarHEP! This repository contains Jupyter Notebooks and Prese
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Presentation](#presentation)
-- [Contributing](#contributing)
+- [References and More Resources](#References-and-More-Resources)
 - [License](#license)
 
 ## Introduction
@@ -35,23 +35,26 @@ Description of the contents :
 List the software and libraries required to run the Jupyter Notebooks and any additional dependencies. For example:
 
 - Python 3.8 or higher
-- Jupyter Notebook
+- Jupyter Notebook or Jupyter Lab
 - pandas
 - numpy
 - matplotlib
-- (Add any other required libraries)
+- ROOT
+- uproot
+- awkward array
+- numba
+- vector
+- hist
+- IPython
 
 You can also provide installation instructions if necessary.
 
 ## Usage
 
-Explain how to run the Jupyter Notebooks in your repository. For example:
-
-1. Clone the repository to your local machine using `git clone https://github.com/your_username/repository_name.git`.
-2. Navigate to the repository directory: `cd repository_name`.
-3. Install the required dependencies using `pip install -r requirements.txt` (if you have a requirements.txt file).
-4. Open Jupyter Notebook using the command `jupyter notebook`.
-5. Run the notebooks from the Jupyter Notebook interface.
+1. Clone the repository to your local machine using `git clone https://github.com/prayagyadav/ColumnarHEP.git`.
+2. Navigate to the repository directory: `cd ColumnarHEP`.
+3. Open Jupyter Notebook using the command `jupyter-lab`.
+5. Run the notebooks from the Jupyter-lab interface.
 
 Include any specific instructions related to the datasets, such as how to access and load them in the notebooks.
 
@@ -59,16 +62,14 @@ Include any specific instructions related to the datasets, such as how to access
 
 Provide a brief overview of the Presentation you've uploaded. Mention the key topics covered and any insights it offers.
 
-## Contributing
-
-If you'd like to contribute to this project, provide guidelines for how others can contribute, such as how to submit bug reports, feature requests, or pull requests.
-
-## License
-
-Mention the license you've chosen for this repository (e.g., MIT, Apache 2.0, etc.) and include the full text of the license in a separate LICENSE file if applicable.
-
----
+## References and More Resources
 
 These are the notes that I made for the Coffea and uproot and awkward array hats LPC HATS. <br/>
 [Uproot and Awkward array link](https://indico.cern.ch/event/1186603//) <br/>
 [Coffea link](https://indico.cern.ch/event/1297678/) <br/>
+
+## License
+
+This repositoty is licensed under the MIT license. For more information, see the LICENCE.md file.
+
+---
