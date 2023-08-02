@@ -70,6 +70,6 @@ I have followed the following LPC HATS while learning about Columnar Analysis. <
 
 ## License
 
-This repositoty is licensed under the MIT license. For more information, see the LICENCE.md file.
+This repository is licensed under the MIT license. For more information, see the LICENCE.md file.
 
 ---
