@@ -13,20 +13,20 @@ Welcome to the ColumnarHEP! This repository contains Jupyter Notebooks and Prese
 
 ## Introduction
 
-Briefly introduce the purpose of your repository and what it aims to achieve. Mention the datasets you are using and the analysis techniques you are applying.
+This repo is a documentation of my work at CMSLab, School of Physics at the University of Hyderabad. My main focus is to perform data analysis of CMS, CERN data using COFFEA framework. In this repository, you will find the presentations that I made to understand tools like Uproot, Awkward array, COFFEA , dask etc. 
 
 ## Repository Contents
 
-Describe the contents of your repository, including the folder structure and the purpose of each file. For example:
+Description of the contents :
 
 - **Notebooks:** This folder contains the Jupyter Notebooks used for data analysis. Provide a brief description of each notebook, its objectives, and how it utilizes the data from the two folders.
-  - `notebook1.ipynb`: Description of notebook 1.
-  - `notebook2.ipynb`: Description of notebook 2.
-  - `notebook3.ipynb`: Description of notebook 3.
+  - `speedtest.ipynb`: Description of notebook 1.
+  - `UprootAndAwkward.ipynb`: Description of notebook 2.
+  - `Coffea.ipynb`: Description of notebook 3.
 
 - **Data:** This folder contains the datasets used in the notebooks. Explain the purpose of each dataset and any data preprocessing steps you've taken.
 
-- **Presentation:** This folder contains the Presentation explaining the general concepts of data analysis used in this project. Provide a brief overview of the topics covered in the presentation.
+- **Presentations:** This folder contains the Presentation explaining the general concepts of data analysis used in this project. Provide a brief overview of the topics covered in the presentation.
 
 - **Other files:** (If you have any other relevant files, such as a requirements.txt or configuration files, mention them here.)
 
@@ -68,10 +68,6 @@ If you'd like to contribute to this project, provide guidelines for how others c
 Mention the license you've chosen for this repository (e.g., MIT, Apache 2.0, etc.) and include the full text of the license in a separate LICENSE file if applicable.
 
 ---
-
-With this Readme, users will have a clear understanding of what your repository offers and how to use its contents effectively. Make sure to keep the Readme concise, informative, and up-to-date. Happy coding and data analyzing!
-
-
 
 These are the notes that I made for the Coffea and uproot and awkward array hats LPC HATS. <br/>
 [Uproot and Awkward array link](https://indico.cern.ch/event/1186603//) <br/>
