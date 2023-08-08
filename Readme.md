@@ -23,6 +23,7 @@ Description of the contents :
   - `speedtest.ipynb`: Description of notebook 1.
   - `UprootAndAwkward.ipynb`: Description of notebook 2.
   - `Coffea.ipynb`: Description of notebook 3.
+  - `SimpleAnalysisExplained.ipynb`: A simple analysis to get a Z boson peak with single Electron dataset.
 
 - **Data:** This folder contains the datasets used in the notebooks. Explain the purpose of each dataset and any data preprocessing steps you've taken.
 
