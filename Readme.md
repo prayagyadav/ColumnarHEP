@@ -20,20 +20,18 @@ This repo is a documentation of my work at CMSLab, School of Physics at the Univ
 Description of the contents :
 
 - **Notebooks:** This folder contains the Jupyter Notebooks used for data analysis. Provide a brief description of each notebook, its objectives, and how it utilizes the data from the two folders.
-  - `speedtest.ipynb`: Description of notebook 1.
-  - `UprootAndAwkward.ipynb`: Description of notebook 2.
-  - `Coffea.ipynb`: Description of notebook 3.
-  - `SimpleAnalysisExplained.ipynb`: A simple analysis to get a Z boson peak with single Electron dataset.
+  - `speedtest.ipynb`: This compares the compilation time for different idioms and libraries relevant for analysis.
+  - `UprootAndAwkward.ipynb`: This is the main jupyter notebook associated with ColumnarI.pptx. This file contains my notes on Uproot and Awkward Array. For this I have followed the [Uproot and Awkward array FNAL HATS](https://indico.cern.ch/event/1186603//) .
+  - `Coffea.ipynb`: This is the main jupyter notebook associated with ColumnarII.pptx (Upcoming; Not yet finished!). This file contains my notes on Uproot and Awkward Array. For this I have followed the [Coffea FNAL HATS](https://indico.cern.ch/event/1297678/) .
+  - `SimpleAnalysisExplained.ipynb`: A simple analysis to get a Z boson peak with single Electron dataset. This utilises the knowledge of uproot and awkward array only. Try this after going through UprootAndAwkward.ipynb .
 
 - **Data:** This folder contains the datasets used in the notebooks. Explain the purpose of each dataset and any data preprocessing steps you've taken.
 
 - **Presentations:** This folder contains the Presentation explaining the general concepts of data analysis used in this project. Provide a brief overview of the topics covered in the presentation.
 
-- **Other files:** (If you have any other relevant files, such as a requirements.txt or configuration files, mention them here.)
-
 ## Requirements
 
-List the software and libraries required to run the Jupyter Notebooks and any additional dependencies. For example:
+Softwares and libraries required to run the Jupyter Notebooks and additional dependencies :
 
 - Python 3.8 or higher
 - Jupyter Notebook or Jupyter Lab
@@ -47,8 +45,10 @@ List the software and libraries required to run the Jupyter Notebooks and any ad
 - vector
 - hist
 - IPython
+- Coffea
+- Particle
+- Rich
 
-You can also provide installation instructions if necessary.
 
 ## Usage
 
@@ -57,11 +57,12 @@ You can also provide installation instructions if necessary.
 3. Open Jupyter Notebook using the command `jupyter-lab`.
 5. Run the notebooks from the Jupyter-lab interface.
 
-Include any specific instructions related to the datasets, such as how to access and load them in the notebooks.
+NOTE: Download the ZZTO4e.root dataset in the Data folder by following the instructions given in the Download.md .
 
 ## Presentation
 
-Provide a brief overview of the Presentation you've uploaded. Mention the key topics covered and any insights it offers.
+ColumnarI.pptx explains about the need fro libraries like Uproot and Awkward Array. It assumes basic knowledge of ROOT and Python.
+ColumnarII.pptx(Not yet uploaded!) discusses the need for columnar analysis and explains the key features of Coffea.
 
 ## References and More Resources
 
