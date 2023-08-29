@@ -21,8 +21,8 @@ Description of the contents :
 
 - **Notebooks:** This folder contains the Jupyter Notebooks used for data analysis. Provide a brief description of each notebook, its objectives, and how it utilizes the data from the two folders.
   - `speedtest.ipynb`: This compares the compilation time for different idioms and libraries relevant for analysis.
-  - `UprootAndAwkward.ipynb`: This is the main jupyter notebook associated with ColumnarI.pptx. This file contains my notes on Uproot and Awkward Array. For this I have followed the [Uproot and Awkward array FNAL HATS](https://indico.cern.ch/event/1186603//) .
-  - `Coffea.ipynb`: This is the main jupyter notebook associated with ColumnarII.pptx (Upcoming; Not yet finished!). This file contains my notes on Uproot and Awkward Array. For this I have followed the [Coffea FNAL HATS](https://indico.cern.ch/event/1297678/) .
+  - `UprootAndAwkward.ipynb`: This is the main jupyter notebook associated with Columnar1.pptx. This file contains my notes on Uproot and Awkward Array. For this I have followed the [Uproot and Awkward array FNAL HATS](https://indico.cern.ch/event/1186603//) .
+  - `Coffea.ipynb`: This is the main jupyter notebook associated with Columnar2.pptx (Upcoming; Not yet finished!). This file contains my notes on Uproot and Awkward Array. For this I have followed the [Coffea FNAL HATS](https://indico.cern.ch/event/1297678/) .
   - `SimpleAnalysisExplained.ipynb`: A simple analysis to get a Z boson peak with single Electron dataset. This utilises the knowledge of uproot and awkward array only. Try this after going through UprootAndAwkward.ipynb .
 
 - **Data:** This folder contains the datasets used in the notebooks. Explain the purpose of each dataset and any data preprocessing steps you've taken.
@@ -61,8 +61,8 @@ NOTE: Download the ZZTO4e.root dataset in the Data folder by following the instr
 
 ## Presentation
 
-- ColumnarI.pptx explains about the need fro libraries like Uproot and Awkward Array. It assumes basic knowledge of ROOT and Python.
-- ColumnarII.pptx(Not yet uploaded!) discusses the need for columnar analysis and explains the key features of Coffea.
+- Columnar1.pptx explains about the need fro libraries like Uproot and Awkward Array. It assumes basic knowledge of ROOT and Python.
+- Columnar2.pptx(Not yet uploaded!) discusses the need for columnar analysis and explains the key features of Coffea.
 
 ## References and More Resources
 
