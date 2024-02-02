@@ -62,7 +62,6 @@ NOTE: Download the ZZTO4e.root dataset in the Data folder by following the instr
 ## Presentation
 
 - Columnar1.pptx explains about the need fro libraries like Uproot and Awkward Array. It assumes basic knowledge of ROOT and Python.
-- Columnar2.pptx(Not yet uploaded!) discusses the need for columnar analysis and explains the key features of Coffea.
 
 ## References and More Resources
 
